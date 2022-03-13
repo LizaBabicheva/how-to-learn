@@ -14,6 +14,7 @@
   margin: 0px;
   padding: 0px;
   background-color: #f2f2f2;
+  color: #000;
 }
 
 .logo {
@@ -59,7 +60,6 @@
 }
 
 .header__main-illustration {
-  /*background-image: url(../images/header-image.png);*/
   background-position: center;
   background-size: contain;
   width: 765px;
@@ -83,6 +83,7 @@
   display: flex;
   box-sizing: content-box;
   padding-top: 100px;
+  background-color: #fff;
 }
 
 .two-columns {
@@ -110,6 +111,7 @@
   font-size: 24px;
   font-weight: normal;
   list-style: none;
+  color: #000;
 }
 
 .two-columns__paragraph {
@@ -133,6 +135,8 @@
   box-sizing: content-box;
   padding-top: 100px;
   padding-bottom: 100px;
+  background-color: #fff;
+  color: #000;
 }
 
 .section-title {
@@ -157,7 +161,7 @@
   display: flex;
   position: relative;
   justify-content: space-between;
-  width: 1100px;
+  min-width: 1100px;
   list-style: none;
   padding: 0;
   margin: 60px auto 0;
@@ -190,6 +194,7 @@
   position: relative;
   height: 890px;
   background-color: #f2f2f2;
+  color: #000;
   background-image: url(../images/feynman.png);
   background-size: 867px 637px;
   background-position: left bottom;
