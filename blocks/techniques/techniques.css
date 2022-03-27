@@ -1,0 +1,11 @@
+.techniques {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  text-align: center;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 100px 0 0;
+  background-color: #fff;
+  color: #000;
+  }

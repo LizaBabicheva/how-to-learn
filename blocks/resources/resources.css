@@ -1,0 +1,11 @@
+.resources {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  box-sizing: content-box;
+  padding-top: 100px;
+  padding-bottom: 217px;
+  text-align: center;
+  background-color: #fff;
+  color: #000;
+}

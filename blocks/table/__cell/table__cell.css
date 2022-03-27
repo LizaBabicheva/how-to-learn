@@ -1,0 +1,8 @@
+.table__cell {
+  display: flex;
+  position: relative;
+  text-align: left;
+  flex-direction: column;
+  width: 250px;
+  margin-top: 60px;
+}

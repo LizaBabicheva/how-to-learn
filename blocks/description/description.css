@@ -1,0 +1,6 @@
+.description {
+  display: flex;
+  box-sizing: content-box;
+  padding-top: 100px;
+  background-color: #fff;
+}
