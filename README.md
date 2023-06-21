@@ -16,7 +16,7 @@
 * Nested БЭМ
 
 ## Запуск проекта
-Клонировать репозиторий: git@github.com:LizaBabicheva/how-to-learn.git
+Клонировать репозиторий: git@github.com:LizaBabicheva/how-to-learn.git  
 Запустить с помощью LiveServer
 
 ## Ссылки
